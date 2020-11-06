@@ -1,15 +1,7 @@
-# LaraQuiz: Laravel 5.6 based quiz system
+#Laravel-Quiz-App-Project: Laravel based quiz system
 
-It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
-LaraQuiz was mostly generated with __QuickAdmin__ except for some custom code.
+It is a demo project for demonstrating what can be:
 
-It's an open-source version of online Laravel quiz at [LaraQuiz.com](http://laraquiz.com) - but the system can be used for any quiz project, you just fill in different topics and questions.
-
-__Notice__: originally created with Laravel 5.3, it was upgraded to Laravel 5.6 in March 2018.
-
-## Clickable live-demo
-
-[demo-laraquiz.quickadminpanel.com](http://demo-laraquiz.quickadminpanel.com)
 
 - __Email__: admin@admin.com
 - __Pass__: password
@@ -41,6 +33,8 @@ __Notice__: originally created with Laravel 5.3, it was upgraded to Laravel 5.6 
 Basically, feel free to use and re-use any way you want.
 
 ---
+
+https://samsonnegash.cf/
 
 ## More from our LaravelDaily Team
 
